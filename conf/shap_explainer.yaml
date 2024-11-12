@@ -1,0 +1,10 @@
+google_cloud:
+    credentials_json_file: ''
+    project_id: 'dmp-dev'
+    project_prefix: 'dmp-dev-das-'
+
+google_gcs:
+    bucket_prefix: 'int0-dmp-'
+
+google_bq:
+    dataset_prefix: 'das_'
